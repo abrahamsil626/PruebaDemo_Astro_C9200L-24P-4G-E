@@ -1,0 +1,36 @@
+[
+    {
+        "nombre_producto": "Cable UTP AMP Categoria 6 Chaqueta CMR 23AWG 6-1427200-4",
+        "precio_producto": "187.00",
+        "link_compra": "https://www.ds3comunicaciones.com/pedido.html",
+        "lista_especificaciones_tecnicas": [
+            { "parametro": "Normas de Cumplimiento", "valor": "TIA/EIA-568-B.2-1, ISO/IEC 11801 Clase E" },
+            { "parametro": "Frecuencia Máxima", "valor": "600 MHz" },
+            { "parametro": "Clasificación de Fuego", "valor": "CMR (ANSI/UL 1666, IEC 332-1)" },
+            { "parametro": "Longitud Estándar", "valor": "1000 ft (305 m)" },
+            { "parametro": "Colores Disponibles", "valor": "Blanco, Gris, Azul" },
+            { "parametro": "Tipo de Empaque", "valor": "Reel-in-box" },
+            { "parametro": "Modelo", "valor": "AMP NETCONNECT X-1427200-X" },
+            { "parametro": "Soporta", "valor": "10/100BASE-TX, 1000BASE-TX, Token Ring, ATM 155 Mbps, 100 Mbps TPPMD, Video ISDN, VoIP" },
+            { "parametro": "Certificaciones y Seguridad", "valor": "NEC Artículo 800, NFPA 70" }
+
+        ],
+        "ficha_tecnica_pdf": "https://www.ds3comunicaciones.com/AMP/files/6-1427200-4-DS.pdf",
+        "manual_pdf": "",
+        "especificaciones_pdf": "",
+        "ruta_imagenes": [
+            { "source": "https://www.ds3comunicaciones.com/AMP/images/6-1427200-4-1.jpg" },
+            { "source": "https://www.ds3comunicaciones.com/AMP/images/Caja.jpg" }
+        ],
+        "especificaciones_tecnicas_desplegable": [
+            { "parametro": "Voltage", "valor": "300VAC or VDC" },
+            { "parametro": "Velocidad Nominal de Propagación", "valor": "70%" },
+            { "parametro": "Temperatura de Operación", "valor": "+20°C a -60°C" },
+            { "parametro": "Temperatura de Almacenamiento", "valor": "+20°C a -80°C" }
+        ]
+    }
+]
+
+
+
+

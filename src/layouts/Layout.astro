@@ -1,0 +1,30 @@
+---
+import Navbar from "../components/Navbar.astro";
+import Head from "../components/Head.astro";
+import Footer from "../components/Footer.astro";
+import JavascriptSecundario from "../components/JavascriptSecundario.astro";
+import '../styles/global.css';
+import '../css/style.css';
+
+interface Props {
+    title: string;
+}
+const { title } = Astro.props;
+
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<!-- titulo de la pagina -->
+<title>{title}</title>
+<Head />
+<Navbar />
+<body>
+    <slot />
+</body>
+<Footer />
+<JavascriptSecundario />
+<script src="../js/nav.js"></script>    
+
+</html>

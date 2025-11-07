@@ -1,0 +1,44 @@
+[
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24T-4G-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24T-4G-E_front.jpg",
+    "alt_imagen": "Switch Cisco C9200L-24T-4G-E",
+    "titulo_producto": "C9200L-24T-4G-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24T, capa L3 con 24 puertos Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24T-4G-E"
+  },
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24P-4G-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_front.jpg",
+    "alt_imagen": "Switch Cisco WS-C9200L-24P-4G-E",
+    "titulo_producto": "C9200L-24P-4G-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24P, capa L3 con 24 puertos PoE+(370W) Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24P-4G-E"
+  },
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24T-4X-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24T-4X-E_front.jpg",
+    "alt_imagen": "Switch Cisco C9200L-24T-4X-E",
+    "titulo_producto": "C9200L-24T-4X-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24T, capa L3 con 24 puertos Gigabit, 04 puertos 10G para fibra SFP+, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24T-4X-E"
+  },
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24P-4X-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4X-E_front.jpg",
+    "alt_imagen": "Switch Cisco WS-C9200L-24P-4X-E",
+    "titulo_producto": "C9200L-24P-4X-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24P, capa L3 con 24 puertos PoE+ (370W) Gigabit, 04 puertos 10G para fibra SFP+, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24P-4X-E"
+  },
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-48T-4G-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-48T-4G-E_front.jpg",
+    "alt_imagen": "Switch Cisco C9200L-48T-4G-E",
+    "titulo_producto": "C9200L-48T-4G-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-48T, capa L3 con 48 puertos Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-48T-4G-E"
+  },
+  {
+    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-48P-4G-E.html",
+    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-48P-4G-E_front.jpg",
+    "alt_imagen": "Switch Cisco WS-C9200L-48P-4G-E",
+    "titulo_producto": "C9200L-48P-4G-E",
+    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-48P, capa L3 con 48 puertos PoE+(740W) Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-48P-4G-E"
+  }
+]
