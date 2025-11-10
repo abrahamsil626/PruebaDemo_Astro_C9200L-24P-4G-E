@@ -1,44 +1,37 @@
 [
   {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24T-4G-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24T-4G-E_front.jpg",
-    "alt_imagen": "Switch Cisco C9200L-24T-4G-E",
-    "titulo_producto": "C9200L-24T-4G-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24T, capa L3 con 24 puertos Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24T-4G-E"
+    "ruta_link": "https://www.ds3comunicaciones.com/AMP/1859345-2.html",
+    "ruta_imagen": "https://www.ds3comunicaciones.com/AMP/images/1859218-2.jpg",
+    "alt_imagen": "Cat 6 AMP 1859345-2",
+    "titulo_producto": "1859345-2",
+    "descripcion_producto": "Cable UTP AMP Categoria 6 Chaqueta LSZH"
   },
   {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24P-4G-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4G-E_front.jpg",
-    "alt_imagen": "Switch Cisco WS-C9200L-24P-4G-E",
-    "titulo_producto": "C9200L-24P-4G-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24P, capa L3 con 24 puertos PoE+(370W) Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24P-4G-E"
+    "ruta_link": "https://www.ds3comunicaciones.com/AMP/1427254-4.html",
+    "ruta_imagen": "https://www.ds3comunicaciones.com/AMP/images/1427254-4-1.jpg",
+    "alt_imagen": "Cat 6 AMP 1427254-4",
+    "titulo_producto": "1427254-4",
+    "descripcion_producto": "Cable UTP AMP Categoria 6 Chaqueta CM"
   },
   {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24T-4X-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24T-4X-E_front.jpg",
-    "alt_imagen": "Switch Cisco C9200L-24T-4X-E",
-    "titulo_producto": "C9200L-24T-4X-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24T, capa L3 con 24 puertos Gigabit, 04 puertos 10G para fibra SFP+, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24T-4X-E"
+    "ruta_link": "https://www.ds3comunicaciones.com/AMP/219585-2.html",
+    "ruta_imagen": "https://www.ds3comunicaciones.com/AMP/images/219585-2_front.jpg",
+    "alt_imagen": "Cat 6 AMP 219585-2",
+    "titulo_producto": "219585-2",
+    "descripcion_producto": "Cable UTP Cat 6 de 23 AWG, CHAQUETA LSZH marca AMP"
   },
   {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-24P-4X-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-24P-4X-E_front.jpg",
-    "alt_imagen": "Switch Cisco WS-C9200L-24P-4X-E",
-    "titulo_producto": "C9200L-24P-4X-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-24P, capa L3 con 24 puertos PoE+ (370W) Gigabit, 04 puertos 10G para fibra SFP+, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-24P-4X-E"
+    "ruta_link": "https://www.ds3comunicaciones.com/AMP/1859218-2.html",
+    "ruta_imagen": "https://www.ds3comunicaciones.com/AMP/images/1859218-2.jpg",
+    "alt_imagen": "Cat 6A AMP 1859218-2",
+    "titulo_producto": "1859218-2",
+    "descripcion_producto": "Cable UTP Categoria 6A Apantallado Chaqueta LSZH"
   },
   {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-48T-4G-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-48T-4G-E_front.jpg",
-    "alt_imagen": "Switch Cisco C9200L-48T-4G-E",
-    "titulo_producto": "C9200L-48T-4G-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-48T, capa L3 con 48 puertos Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-48T-4G-E"
-  },
-  {
-    "ruta_link": "https://web.netperu100.com/cisco/catalyst/C9200L-48P-4G-E.html",
-    "ruta_imagen": "https://web.netperu100.com/cisco/catalyst/images/C9200L-48P-4G-E_front.jpg",
-    "alt_imagen": "Switch Cisco WS-C9200L-48P-4G-E",
-    "titulo_producto": "C9200L-48P-4G-E",
-    "descripcion_producto": "Switch Cisco Catalyst 9200L Essentials C9200L-48P, capa L3 con 48 puertos PoE+(740W) Gigabit, 04 puertos para fibra SFP, Stacking hasta 08 equipos, Rackeable, CISCO C9200L-48P-4G-E"
+    "ruta_link": "https://www.ds3comunicaciones.com/AMP/1859381-2.html",
+    "ruta_imagen": "https://www.ds3comunicaciones.com/AMP/images/Caja.jpg",
+    "alt_imagen": "Cat 6A AMP 1859381-2",
+    "titulo_producto": "1859381-2",
+    "descripcion_producto": "Cable UTP AMP Categoria 6A Chaqueta LSZH IEC-60332-3"
   }
 ]
