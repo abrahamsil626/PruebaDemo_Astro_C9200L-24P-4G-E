@@ -1,43 +1,52 @@
-# Astro Starter Kit: Minimal
+# Catálogo Cisco C9200L-24P-4G-E
 
-```sh
-npm create astro@latest -- --template minimal
+Página de **producto del switch Cisco Catalyst 9200L C9200L-24P-4G-E** hecha con Astro y Tailwind CSS: una ficha estática con submenú de marca, navegación por cascada, especificaciones técnicas, precio y productos similares.
+
+> **Prueba el proyecto en vivo:** [abrahamsil626.github.io/PruebaDemo_Astro_C9200L-24P-4G-E](https://abrahamsil626.github.io/PruebaDemo_Astro_C9200L-24P-4G-E/)
+
+## Funcionalidad
+
+* Interfaz íntegramente **en español**.
+* Secciones: barra de navegación con contacto, submenú de marca, cascada de navegación, ficha del producto (sidebar derecho), productos similares y pie de página.
+* Descripción, especificaciones y productos similares cargados desde archivos JSON (`src/config/`), sin tocar los componentes.
+* Diseño adaptable (responsive) con menú móvil.
+* Sitio 100 % estático, publicado en GitHub Pages.
+
+## Stack
+
+Astro 5 · Tailwind CSS v4 · GitHub Pages.
+
+## Empezar
+
+```bash
+npm install
+npm run dev        # http://localhost:4321/PruebaDemo_Astro_C9200L-24P-4G-E/
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+| Script | Qué hace |
+|--------|----------|
+| `npm run dev` | Servidor de desarrollo |
+| `npm run build` | Build de producción en `dist/` |
+| `npm run preview` | Sirve localmente el build |
 
-## 🚀 Project Structure
+> El sitio usa `base: '/PruebaDemo_Astro_C9200L-24P-4G-E'`, por eso la ruta local incluye ese prefijo. Las imágenes de `public/` se referencian con `import.meta.env.BASE_URL`.
 
-Inside of your Astro project, you'll see the following folders and files:
+## Estructura
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+```
+public/
+  icons/        Iconos del submenú de marca
+src/
+  components/   Navbar, Head, Footer y content/ (submenú, cascada, sidebar, similares)
+  config/       descripcion_*.json y similares_*.json (contenido editable)
+  js/           Scripts de navegación y pestañas
+  layouts/      Layout base
+  pages/        index y página del producto
+  styles/       Estilos globales
+.github/
+  workflows/    Despliegue a GitHub Pages
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Sistema de diseño
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Estilos con utilidades de Tailwind CSS v4 (integrado vía `@tailwindcss/vite`) y estilos globales en `src/styles/`.

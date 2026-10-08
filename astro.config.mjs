@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://abrahamsil626.github.io',
-  base: 'C9200L-24P-4G-E',
+  base: '/PruebaDemo_Astro_C9200L-24P-4G-E',
   vite: {
     plugins: [tailwindcss()]
   }
